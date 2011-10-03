@@ -40,9 +40,9 @@ e.g.
 [MultipleMarkerMap id="MultipleMarkerMapDemo" z="12" lat="48.220162" lon="16.287525" marker="48.193054,16.261282,Bar,http://google-maps-icons.googlecode.com/files/cocktail.png|48.220162,16.287525,point-of-view,http://google-maps-icons.googlecode.com/files/beautiful.png" w="690" h="442"]
 
 == Frequently Asked Questions ==
-= How do I add a map to my post =
+= How do I add a map to my post? =
 
-Use shortcodes:
+Use shortcode:
 
 e.g.:
 [MultipleMarkerMap id="MultipleMarkerMapDemo" z="12" lat="48.220162" lon="16.287525" marker="48.193054,16.261282,Bar,http://google-maps-icons.googlecode.com/files/cocktail.png|48.220162,16.287525,point-of-view,http://google-maps-icons.googlecode.com/files/beautiful.png" w="690" h="442"]
