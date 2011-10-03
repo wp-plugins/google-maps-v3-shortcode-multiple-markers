@@ -30,10 +30,6 @@ Features:
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload 'google-maps-v3-shortcode-multiple-markers' directory to the '/wp-content/plugins/' directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Add shortcodes in your posts, e.g.
@@ -54,6 +50,7 @@ Yes!  But make sure you use the "id" parameter to create unique id's for each ma
 
 e.g.:
 [MultipleMarkerMap id="MultipleMarkerMapDemo" z="12" lat="48.220162" lon="16.287525" marker="48.193054,16.261282,Bar,http://google-maps-icons.googlecode.com/files/cocktail.png|48.220162,16.287525,point-of-view,http://google-maps-icons.googlecode.com/files/beautiful.png" w="690" h="442"]
+
 [MultipleMarkerMap id="MultipleMarkerMapDemo2" z="12" lat="48.220162" lon="16.287525" marker="48.203054,16.261282,Bar,http://google-maps-icons.googlecode.com/files/cocktail.png|48.230162,16.287525,point-of-view,http://google-maps-icons.googlecode.com/files/beautiful.png" w="690" h="442"]
 
 = Can I add multiple markers on the same map? =
