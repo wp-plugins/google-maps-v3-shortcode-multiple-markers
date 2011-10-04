@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: soundwaves-productions,yohman
+Donate link: http://www.soundwaves-productions.com/soundwavesblog/google-maps-v3-shortcode-multiple-markers/
 Tags: google, google maps, google maps, shortcode, shortcodes, google maps v3, v3, geocode, map, multiple marker, marker, mapping, maps, latitude, longitude, api, traffic
 Requires at least: 2.8
 Tested up to: 3.1
@@ -14,6 +15,9 @@ http://wordpress.org/extend/plugins/google-maps-v3-shortcode/
 This plugin allows you to add a google map into your post/page using shortcodes. 
 This plugin allows you to add one or more maps (via the Google Maps v3 API) to your page/post using shortcodes.
 This plugin supports multiple markers per map !
+
+
+
 
 Features:
 
