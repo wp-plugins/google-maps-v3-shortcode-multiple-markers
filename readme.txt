@@ -33,9 +33,8 @@ Features:
 </form>
 
 == Installation ==
-
-1. Upload 'google-maps-v3-shortcode-multiple-markers' directory to the '/wp-content/plugins/' directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the `google-maps-v3-shortcode-multiple-markers` directory to the `/wp-content/plugins/` directory
+1. Activate the plugin through the `Plugins` menu in WordPress
 1. Add shortcodes in your posts, e.g.
 [MultipleMarkerMap id="MultipleMarkerMapDemo" z="12" lat="48.220162" lon="16.287525" marker="48.193054,16.261282,Bar,http://google-maps-icons.googlecode.com/files/cocktail.png|48.220162,16.287525,point-of-view,http://google-maps-icons.googlecode.com/files/beautiful.png" w="690" h="442"]
 
