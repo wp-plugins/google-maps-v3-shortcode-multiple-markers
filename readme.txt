@@ -3,7 +3,7 @@ Contributors: soundwaves-productions,yohman
 Donate link: http://www.soundwaves-productions.com/soundwavesblog/wordpress-plugins/google-maps-v3-shortcode-multiple-markers/
 Tags: google, google maps, google maps, shortcode, shortcodes, google maps v3, v3, geocode, map, multiple marker, marker, mapping, maps, latitude, longitude, api, traffic
 Requires at least: 2.8
-Tested up to: 3.1
+Tested up to: 4.1.1
 Stable tag: 1.00
 
 This plugin supports multiple markers per map! Kudos to yohman for his plugin:
