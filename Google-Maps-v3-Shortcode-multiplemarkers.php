@@ -4,7 +4,6 @@ Plugin Name: Google Maps v3 Shortcode multiple Markers
 Description: This plugin allows you to add one or more maps to your page/post using shortcodes, even multiple markers per map! Kudos to yohman for his plugin: http://wordpress.org/extend/plugins/google-maps-v3-shortcode/
 Version: 1.0
 Author: soundwaves-productions
-Plugin URI: http://www.soundwaves-productions.com/soundwavesblog/wordpress-plugins/google-maps-v3-shortcode-multiple-markers/
 */
 
 // Add the google maps api to header
