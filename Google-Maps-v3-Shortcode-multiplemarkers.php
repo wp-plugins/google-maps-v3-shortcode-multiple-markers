@@ -9,12 +9,16 @@ Plugin URI: http://www.soundwaves-productions.com/soundwavesblog/wordpress-plugi
 
 // Add the google maps api to header
 add_action('wp_head', 'MultipleMarkerMap_header');
+add_action('wp_head', 'fix_css'); 
 
 function MultipleMarkerMap_header() {
 	?>
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 	<?php
 }
+function fix_css() { 
+	echo '<style type="text/css">img[src*="gstatic.com/"], img[src*="googleapis.com/"] { max-width: none; !important;}</style>' . "\n";
+ } 
 
 // Main function to generate google map
 function MultipleMarkerMap_call($attr) {
